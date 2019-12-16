@@ -1,0 +1,25 @@
+CR1: 1 Ohm +- 1% in Reihe
+CR2: 4.99kOhm +- 1% Parallel
+CR3: 1 in Reihe, 2 Parallel
+C1 ohne Widerstand
+
+Verschattung:
+CS1:
+X O O
+X 0 0
+
+CS2:
+0 X X
+0 X X
+
+CS3:
+X X X
+0 X X
+
+CV1: Verbraucher
+Arbeitsspannung V = 3.69V
+Arbeitsstrom I = 108.7mA
+
+Temperatur
+CT1 33
+CT2 65
